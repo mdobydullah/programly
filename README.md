@@ -1,10 +1,6 @@
-# shadcn-docs-nuxt Minimal Starter
+# Programly
 
-Starter template for [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
-
-## Setup
-
-Make sure to install the dependencies:
+Install the dependencies:
 
 ```bash
 # yarn
@@ -30,9 +26,9 @@ npm run dev
 
 ## Production
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=ZTL-UwU/shadcn-docs-nuxt-starter)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
+[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=mdobydullah/programly)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mdobydullah/programly)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mdobydullah/programly)
 
 Build the application for production:
 
