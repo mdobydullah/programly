@@ -1,31 +1,22 @@
 ---
-title: Home
+title: 'Home'
 navigation: false
 ---
 
 ::hero
 ---
-announcement:
-  title: 'Release v0.7.1'
-  icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases
-  target: _blank
 actions:
   - name: Get Started
     to: /getting-started
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: https://github.com/mdobydullah/programly
     leftIcon: 'lucide:github'
 ---
 
 #title
-Effortless and Beautiful :br Docs Template.
+Level Up Your Skills :br with Programly
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
+The goal of Programly is to help you get a job in the shortest amount of time possible in a data-driven way. We compiled datasets of tech interview problems and broke them down by patterns. This way, we can determine the most frequently tested and highest return on investment (ROI) area to focus on. We'll look at the breakdown for top problems overall and company-specific investigations.
 ::
-
-<div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
-</div>
