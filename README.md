@@ -1,45 +1,26 @@
 # Programly
+Code Smarter, Solve Faster, Secure Stronger
 
-Install the dependencies:
+## Contributing
+
+1. Clone this repository
 
 ```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# bun
-bun install
+git clone https://github.com/mdobydullah/programly
 ```
 
-## Development Server
+2. Install dependencies
 
-Start the development server on http://localhost:3000
+```bash
+npm install
+```
+
+3. Start dev server
 
 ```bash
 npm run dev
 ```
 
-## Production
+## License
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=mdobydullah/programly)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mdobydullah/programly)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mdobydullah/programly)
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+The MIT License (MIT). Please see [license file](https://github.com/mdobydullah/programly/blob/master/LICENSE) for more information.
