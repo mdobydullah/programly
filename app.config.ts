@@ -2,7 +2,7 @@ export default defineAppConfig({
   shadcnDocs: {
     site: {
       name: 'Programly',
-      description: 'Level Up Your Skills with Programly',
+      description: 'Code Smarter, Solve Faster, Secure Stronger',
     },
     theme: {
       customizable: true,
