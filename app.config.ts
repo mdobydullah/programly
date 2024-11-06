@@ -26,7 +26,7 @@ export default defineAppConfig({
     },
     aside: {
       useLevel: true,
-      collapse: true,
+      collapse: false,
     },
     main: {
       breadCrumb: true,
